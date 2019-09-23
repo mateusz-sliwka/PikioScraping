@@ -6,7 +6,252 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="008dd0ad-6c0b-48b2-9ca7-d76e251fca65" name="Default Changelist" comment="" />
+    <list default="true" id="008dd0ad-6c0b-48b2-9ca7-d76e251fca65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/botPikio_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/botPikio_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/10-latka zmuszona przez sąd do chodzenia na lekcje religii. Absurdalny powód _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/10-latkę okrzyknięto najpiękniejszą dziewczynką świata. Uwagę wszystkich przykuwają jej oczy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/16-letnia Joanna zaginęła w drodze do szkoły. Policja prosi o pomoc w poszukiwaniach _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/17 latek rzucił się z nożem na pielęgniarkę. Kobieta ma przebitą opłucną _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/2017 r. Szokujące znalezisko u polskiego polityka. Gwałcił dzieci i chorą psychicznie żonę, wszystko nagrywał _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/21-latka chciała zrobić idealnie selfie. Nie żyje, tragiczna śmierć _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/9-letnia dziewczyna była gwałcona i więziona w wersalce. Co dzieje się teraz ze sprawcą_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Agnieszka Chylińska pokazała się bez ubrań na okładce. Jej ciało na niejednym zrobi piorunujące wrażenie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Aktor z _Barw szczęścia_ wziął rozwód. Cała prawda dopiero teraz wyszła na jaw _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Aktorka Przyjaciółek milczy na ten temat. To dla niej dramat, w sądzie toczy się już postępowanie rozwodowe _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Aktorka _M jak miłość_ jest w ciąży! Ojcem jest brat Antka Królikowskiego _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Aktorka hitowego serialu TVN straciła matkę przed laty. Teraz prosi kobiety by nie popełniały tego błędu _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Aktorka z serialu _Ranczo_ przeszła konkretną metamorfozę. Wygląda 10 lat młodziej! _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Alicja Bachleda-Curuś przechodzi poważny kryzys. Ma tylko jedno marzenie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Andrzej Duda chce pozostać bezstronny, ale pojawia się na plakatach kandydatów PiS _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Andrzej Gołota mógł umrzeć. Jego matka podzieliła się skrywaną tajemnicą _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Anna Lewandowska opowiedziała o drugiej ciąży. Fani nie posiadają się ze szczęścia _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Antoni Królikowski pęka z zazdrości. Nie może znieść, że była dziewczyna się zaręczyła _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Aż wam oczy wyjdą z orbit. Gessler chwali się swoimi dwoma ogromnymi walorami w rozmiarze D _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Barbara Kurdej-Szatan przekazała dobrą nowinę. Ten dzień mamy będzie piękny! _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Biedronka i Lidl mogą się zwijać_ Na polski rynek wchodzi gigant, w którym produkty są o wiele, wiele tańsze _ Gospodarka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Biedronka rozdawała telewizory za bezcen. Reakcja ludzi przyprawia o ciarki żenady _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Bliska współpracowniczka Agaty Dudy dostawała groźby. Chcieli ją oskórować _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Blisko 100 tys. Polaków może dostać niższą emeryturę nawet o kilkaset złotych. Z jednego powodu _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Brak słów by opisać tę stratę. Nie żyje Rafał Urbacki _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Był rekwizytem Justyny Żyły w _Tańcu z gwiazdami_. O dmuchanym flamingu mówią dziś wszyscy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Będzie skandal w rodzinie królewskiej_ William zdradził Kate okropną prawdę nt. ich związku _ Brytyjska rodzina królewska Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Cała Polska podaje dalej! Pomagali w ewakuacji topiących się psów, teraz sami potrzebują pomocy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ciemne chmury nad Polską. Będzie coraz gorzej, znamy konkretną prognozę _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ciężarna Ewa Farna zrobiła to jaka pierwsza w Polsce. Fani zanoszą się z radości, serwery padły pod ich naporem _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Córka księżnej Kate niedługo pójdzie do szkoły. Koszt jej edukacji jest kosmicznie wysoki _ Brytyjska rodzina królewska Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dawid Podsiadło zrobił coś, co nie udało się największym artystom. To poważny powód do dumy _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Doda dostała groźbę, że skończy jak Adamowicz. W piątek na scenie ma zostać dźgnięta nożem _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Doda pokazuje wiadomość z pogróżkami. _Za___ę Cię na scenie nożem kuchennym na koncercie w Nysie_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dominika Gwit o całowaniu i wakacjach. Wygląda oszałamiająco! _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dominika Tajner pochwaliła się piękną mamą. Już wiadomo, po kim odziedziczyła urodę (Zdjęcie) _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dorota Wellman szczerze o swojej chorobie. _Choćbym stanęła na głowie i zrobiła pirueta, to nie będę szczupła_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dostała zaproszenie na komunię. Kiedy zobaczyła kosztorys, włosy stanęły jej dęba _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dramat panny młodej tuż przed ślubem. _Matka przestanie się do mnie odzywać_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dwie największe divy związane były z tym samym facetem. _Był brutalem, wylądowałam w szpitalu_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dziewczynka umierała z bólu. Lekarz zamiast ją przyjąć gawędził ze znajomym _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dziewczynka z zespołem Downa otworzyła czekotubkę w Biedronce. Reakcja ochroniarza odbiera mowę, skandal! _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Dziś jest seksbombą, ulubienicą Rodowicz i dziewczyną rapera. Jak wyglądała 8 lat temu_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Edyta Górniak o ślubie Kingi Rusin. W jej słowach jest wiele smutku i żalu _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ekstremalna dieta króla disco polo doprowadziłaby do furii lekarzy. Sposób w jaki schudł 6 kg w 2 tyg, odbierze wam mowę _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Fakt poinformował o śmierci Polaka we Włoszech. Okropne okoliczności _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Fala powodziowa zmierza do Warszawy. TVN informuje o pilnej ewakuacji na budowie Mostu Południowego _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Festiwal kabaretów już za dwa dni. Wiemy kto wystąpi _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Filip Chajzer jest w ogromnych tarapatach. Prokuratura rozpoczęła czynności ws. rzekomego molestowania _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/GIS wydał ostrzeżenie ws. konsekwencji powodzi. _Mogą być groźne dla zdrowia i życia_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Grażyna Torbicka kończy 60 lat. Gdy zobaczycie jak dziś wygląda, oniemiejecie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Grozi nam nie tylko powódź. W mediach się o tym nie mówi _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Gwiazda serialu _Przyjaciółki_ rozwodzi się z mężem. Media ujawniają porażające kulisy rozstania _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Górniak szczerze o relacji syna z Mazurkiewiczem. Gwiazda ma powody do zmartwień _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Górniak wściekła się na Rusin. Szybko się na niej zemściła i to w jaki sposób! _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Halicki_ PiS zrobił ogromną krzywdę Kościołowi _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Harmider podczas przedwyborczej debaty. Prowadzący TVP musiał interweniować _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ile naprawdę jest warta działka Morawieckiego_ Niezła suma _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ile zarabia Roksana Węgiel_ Pospadacie z krzeseł na widok liczb na koncie 14-latki _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Imperium Rydzyka otrzymało potężne pieniądze od ministerstwa. To już nie miliony, a miliardy złotych _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Interwencja policji w Kuchennych Rewolucjach. Nawet Magda Gessler sobie z nimi nie poradziła _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Iza z _M jak miłość_ zginie_ Groźba, którą usłyszy, wprawi was w osłupienie _ Seriale Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Janda odkopała bardzo stare zdjęcie Rydzyka. Duchowny będzie wyjątkowo niezadowolony, gdy to zobaczy _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Jarosław Bieniuk w kiepskim stanie. Przyjaciółka wyjawiła, że nie radzi sobie po oskarżeniach _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Jarosław Kaczyński wycofuje się z konwencji. Wykorzystał okazję_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Jest lista biskupów do dymisji. Wiemy, kto się na niej znalazł _ Religia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Jest oficjalna decyzja. Theresa May ustąpiła ze stanowiska _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Julia Wieniawa o swoim pierwszym razie. Aktorka opublikowała zdjęcie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Julia Wieniawa znowu szokuje na Instagramie. _Co Ty masz na głowie_!_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Już niedługo wszyscy będą płacić kolejny podatek. Mocno zaboli po kieszeniach Polaków _ Gospodarka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kaczyński grzmi_ Jeśli nasi konkurenci wygrają, to programy społeczne zostaną odebrane _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kanibale na wolności. Powód decyzji sądu przeraża _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kardynał został oskarżony o molestowanie. Trafił do szpitala _ Religia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kasia usunęła dziecko. Gdy dowiedziała się, co szpital zrobił z jego ciałkiem, załamała się _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Katarzyna Dowbor pomalowała twarz w nietypowy sposób. Ma ważny powód _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Katedra Notre Dame może się zawalić. Wyniki ekspertyzy są druzgocące _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kazimierz Marcinkiewicz nie ma czasu na wojny z Isabel. Teraz są dla niego ważniejsze rzeczy _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kolejna pilna ewakuacja z miejscowości w Polsce. _Od lat wiadomo, że ta zapora to bubel_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Koszmarne informacje TVP! Nie żyje zwierzak, którego kochali Polacy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kożuchowska pochwaliła się swoim nowym, powalającym wcieleniem. Kolosalna zmiana wyglądu z dnia na dzień _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kożuchowska pokazała się bez makijażu. Zrobiła piorunujące wrażenie, fanom opadły szczęki _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ks. Popiełuszko o kardynale Glempie_ Gorszy od SB. Po spotkaniach z nim płakał _ Religia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ksiądz Adam nagrał diss na atakujących Kościół. Wszystko przez Sekielskiego _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Książę William regularnie poniżał Kate. Ujawniono skandaliczne kulisy związku pary książęcej _ Brytyjska rodzina królewska Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kuba Wojewódzki pokazał zdjęcie sprzed lat. Gdyby dziś wyszedł tak na ulice stałby się pośmiewiskiem _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kuba Wojewódzki w ostrych słowach o rozwodzie Reni Jusis. _U kobiet to się nazywa brak klasy_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kuba nie żyje. TVN poinformował, że został wcześniej wywieziony i pobity _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kuria podjęła decyzję ws. księdza-pedofila. _Został zobowiązany do modlitwy i pokuty_ _ Religia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Kwaśniewska o okropnym wypadku gdy była w ciąży. Jej auto zderzyło się z ciężarówką _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Lech Wałęsa narobił wstydu Kaczyńskiemu. Wypomniał mu donosy o jego dewiacjach _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Lech Wałęsa o dewiacjach Jarosława Kaczyńskiego. Były prezydent nie przebierał w słowach _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Legia zostanie w osłabionym składzie_ Szykuje się poważny transfer _ Sport Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Lewandowska ukrywała to pod ubraniami. W końcu się wydało _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Maliny za 50 zł, poziomki za 150. Ceny galopują jak nigdy dotąd _ Gospodarka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Malutkie dziecko zmarło z głodu. Zdjęcia dziewczynki chwytają za gardło _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Mama bardzo cieszyła się ze ślubu córki. Gdy dowiecie się, kim jest jej wybranek, zdębiejecie _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Mama i dwie córki zagłodziły się na śmierć. Nikt nie zareagował _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Mama polskich sześcioraczków prosi internautów. Nikt nie spodziewał się takich słów _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Margaret chodzi do psychoterapeuty. _Wiele osób nie wytrzymuje_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Margaret zdobyła się na intymne wyznanie. W końcu zaczęło jej być dobrze _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Martyna Wojciechowska nie miała takiego problemu. Korek na Mount Everest _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Martyna Wojciechowska wspomina drastyczne chwile. _Obudził mnie potworny huk, to był jego ostatni moment_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Małgorzata Rozenek hipokrytką_ Skrytykowała inne kobiety za coś, co sama robi _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Małgorzata Rozenek zdradziła na kogo zagłosuje. Komentarz jej ojca jest bardzo wymowny _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Media przekazały informacje, które przeraziły fanów _Ojca Mateusza_. Główny bohater po 11 latach ODCHODZI z serialu_! _ Seriale Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Meghan Markle upokorzona po raz kolejny. Tym razem zrobiła jej to przyjaciółka _ Brytyjska rodzina królewska Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Michał Piróg obśmiał Kaję Godek. _Pani nie puszcza się za prezenty i wystawne życie_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Michał Piróg ostro reaguje na wypowiedzi polityków_ _PiS jest jak Hitler_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Michał Szpak ma się teraz do kogo tulić wieczorami. Wielka radość w życiu artysty _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Monika Zamachowska przekroczyła granice_ Do sieci trafiło intymne zdjęcie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Morawiecki złapany na rażącym kłamstwie. Internauci szybko go zaszachowali _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Morawiecki_ _Sytuacja naprawdę ciężka_. Fala powodziowa rozprzestrzenia się na kolejne miasta _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Najgorsza pogoda dopiero przed nami. Pilnie zebrano sztab kryzysowy z Morawieckim _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Najwięksi gwiazdorzy TVN w tarapatach. Prokuratura wszczęła śledztwo ws. napaści seksualnej _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Największa gwiazda _Tańca z gwiazdami_ w ciąży! Wielka radość, pomogło in vitro _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nauczycielka z polskiej szkoły zmarła podczas wycieczki. Przez powód jej śmierci 200 uczniów natychmiast dostało antybiotyki _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nie tylko George i Archie. Ta piękna 17-latka także czeka na europejski tron _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nie żyje Jan Guz, ogromna tragedia. TVN przekazał informacje z ostatniej chwili _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nie żyje wielki artysta. Widzowie HBO będą o nim pamiętać _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nie żyje znany polski piłkarz. Wiadomości o jego strasznej śmierci obiegły właśnie media _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nie żyją 4 osoby. Winni za ich śmieć zarobili na tym 14 milionów złotych _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Niepokojące informacje Polsatu. To nie była zwykła trąba powietrzna, tylko rzadkie tornado klinowe _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nieprawdopodobne rozstrzygnięcia w największym show TVN. Widzowie przecierali oczy ze zdumienia, kiedy podano finałowe wyniki _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Niesamowite! Świat według Kiepskich mógł wyglądać zupełnie inaczej _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Niesamowity dramat rodziny. _We wnętrzu było pół metra wody. Nie było szans, żeby uratować meble_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Niewiarygodne, jak wygląda grób Zbigniewa Wodeckiego już 2 lata po śmierci _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Niewyobrażalne. Na okręcie podwodnym stworzyli _listę gwałtu_ [+18] _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nowa metoda leczenia raka piersi_ Uważaj, lekarze przed nią ostrzegają _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Nowe fakty ws. działki Morawieckiego. Okazuje się, że mogło się to odbyć poza prawem _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Obie nie zaprosiły się nawzajem na ślub. Zaskakująco prozaiczny powód _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Obliczono, ile każdy z nas zapłaci za obietnice wyborcze. Kwota zwala z nóg _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Od lat bawi Polaków do łez. Sam przeżył niewyobrażalny dramat, który zmienił jego życie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ogromna tragedia. Nie żyją dwie osoby, zginęli robiąc to, co kochali _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ostrzeżenia hydrologiczne 3. stopnia. Fala kulminacyjna dopiero przed nami _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Pamela Anderson popiera polską partię w eurowyborach. Wielu może być zaskoczonych, którą z nich wspiera aktorka _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Parskniecie śmiechem. Rutkowski opublikował zdjęcie w innej fryzurze _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Pawłowicz stwierdziła, że pozostała jej już tylko modlitwa. _Boże, nie wystawiaj Polski więcej na takie próby_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Pensja minimalna rekordowo wzrośnie. Rząd wprowadza nowe rozwiązanie przed wyborami _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Pies chory na raka i ze zdeformowaną głową dostał kochający dom. Ta historia łamie serce _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Pod Katarzyną Dowbor aż ugięły się nogi. Niewyobrażalna tragedia tej rodziny rozerwała serca widzom _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polacy już przez to cierpią. Przepowiednia Jackowskiego spełnia się na naszych oczach _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polacy ocenili rząd Morawieckiego. Opinie niemal równo podzielone _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Policja wjechała na plan _Kuchennych Rewolucji_. Cztery osoby powalone na ziemię i skute kajdanami _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Policjanci rzucili się na ojca, dziecko na kolanach błagało o litość. _Proszę, nie bijcie mojego taty_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polityk PiS służyła w mafii_ Otrzymała list od _wyborcy_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polsat informuje o najwyższym stopniu zagrożenia hydrologicznego! Aż 3 duże województwa _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polsat podał informacje o stanie alarmowym w 31 miejscach w Polsce. Jest bardzo źle _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polscy rodzice przesadzili. Tych imion nie da się wymówić _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polska piosenkarka oszpeciła kota. Jej fani nie zostawili na niej suchej nitki _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polski ekonomista_ _Jak zadaję to pytanie, emeryci rzucają się na mnie z pięściami_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Polskie dzieci tyją najszybciej w Europie. Wszystkiemu winni dorośli _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Potrafimy się zjednoczyć. Polacy zebrali kolosalną kwotę na tonące schronisko _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Powódź zaburzy jutrzejsze wybory_ Szefowa KBW ostrzega _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Prawdziwa piękność podbija serca widzów. Teraz wcięli się w Violettę Villas _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Prawdziwe nazwisko Rydzyka jest inne_ Ojciec dyrektor zawsze to ukrywał _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Prawie nikt o tym nie wie. Jeśli jesteś w tym wieku, możesz dostać od ZUS 4 tysiące miesięcznie _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Prezenterka DDTVN dostawała paskudne pytania. _Czy moje dziecko jest opóźnione umysłowo__ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Prezydent Duda odwiedził polskie sześcioraczki. Poznał jak będą miały na imię _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Przerażający wypadek na południu Polski. Ucierpiało 6 dzieci _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Przyłapali córkę Gessler z nowym facetem! Kilka dni temu rozwiodła się _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Próbował przejechać policjantów, padły strzały. Akcja jak z filmu _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Psy policyjne dostały nowy radiowóz. Wielka radość, teraz będą jeździć bezpiecznie _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Raport NIK nie pozostawia złudzeń. Reforma PiS zrujnowała polskie szkoły_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Robert Lewandowski nie jest już najlepszy. Bayern oszalał na punkcie innego piłkarza _ Sport Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Rodzice sześcioraczków będą mieli problem z 500 plus_ Niepojęte, o co chodzi_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Rodzice wyszli z noworodkiem ze szpitala i zapomnieli go zabrać z taksówki. Zauważył go dopiero następny pasażer _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Rodzice zostawili noworodka w taksówce. Powód wprawia w osłupienie _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Rozgłośnia Rydzyka poleca książkę, która neguje zbrodnie księży względem dzieci. Stwierdza, że _nie ma problemu_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Scheuring-Wielgus z zaangażowaniem broni psów. Wyszło na jaw, że w 2016 roku oddała 2 swoje psy do schroniska _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Seria dziwnych zgonów w szpitalu MSWiA. Rodziny zmarłych oskarżają lekarzy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Skandal na Eurowizji! Źle policzono głosy, błąd algorytmu _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Skandal przed festiwalem w Opolu. Kompromitacja to mało powiedziane _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Smutna prawda o Zamachowskich. _Bez Moniki nie dałby sobie rady_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Smutne. Najsłynniejsze stado krów w Polsce zostanie wybite zaraz po wyborach _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Spryskali zastygającą pianą i zostawili na pewną śmierć. Dramat tego kota wyciska łzy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Synowa Katarzyny Dowbor pokazała się bez makijażu. Wygląda onieśmielająco, jak grecka bogini (FOTO) _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Szokująca relacja TVN. Nagle uderzył w nią samochód, wszystko jest nagrane _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Szydło przerwała kampanię, miała pomóc schronisku. Prawda okazała się jednak zupełnie inna _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Sławomir prosi o pilną pomoc. Nagrał specjalny film, w którym wyjaśnia, co dokładnie się dzieje _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ta wiadomość zelektryzowała polskie media. Wojciechowska i jej partner przygotowują się na wspólne dziecko! _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tajemnice nowego sezonu Przyjaciółek ujawnione. Widzowie poczują się zawiedzeni_ _ Seriale Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tak abp Głódź chronił księdza, który wykorzystał dziewczynkę. Dziennikarze właśnie ujawnili wstrząsające fakty _ Religia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tak wygląda _najbrzydsza kobieta świata_. Jej życie było piekłem _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tak wygląda wnuk Wodeckiego. Wielu może się rozpłakać, gdy go zobaczy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tak wyglądał brzuch mamy sześcioraczków. Będziecie przecierać oczy ze zdumienia (Zdjęcia) _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tak wyglądała mama Kaczyńskiej w dniu ślubu. Marta pokazała oszałamiające zdjęcie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tego szczegółu nie wiedzieli nawet najwięksi fani Szelągowskiej. Zaczynała, jako asystentka wielkiej gwiazdy DDTVN (edited) _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tego widoku po prostu nie da się zapomnieć. Przerażająca głowa lalki poruszała się po plaży _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ten przystojniak dał kosza Meghan Markle. Mamy jego zdjęcia _ Brytyjska rodzina królewska Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To jest skandal! Tak wygląda grób Jana Olszewskiego, po prostu nie do pomyślenia _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To koniec dramatu_ Prognoza pogody na ten weekend może wiele zmienić _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To koniec pewnej ery. Z najbardziej lubianego serialu TVP odchodzi główny bohater_ _ Seriale Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To koniec. Joanna Liszowska rozwodzi się, jednak popełniła pewien błąd _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To miał być zwykły spacer z psem. Mężczyzna dokonał przerażającego odkrycia _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To naprawdę mama Kingi Rusin_! Wygląda wspaniale, wszyscy myśleli, że to jej siostra _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To nie koniec powodzi w Polsce. Będą kolejne silne opady już niebawem _ Prognoza pogody Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/To straszne. Anna Przybylska walczyła nie tylko z rakiem _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Trwa koszmar Dody, przez który trafiła do szpitala. _Komuś jest na rękę męczenie mnie_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tysiące Polaków żyje w strachu, boją się tragedii. _Zagrożenie przerwania zapory jest realne_ _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tysiące interwencji służb, widmo powodzi coraz większe. TVN ostrzega przed kolejnymi nawałnicami _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Tłumy zebrały się, aby pomóc w zalanym schronisku _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/UE sfinansowało budowę zbiornika retencyjnego. Morawiecki twierdzi, że to z środków krajowych _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Uczestniczka show TVN przypadkiem się wygadała_ Zdradziła ile zarabiają, Big Brother nie płaci zbyt wiele _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ujawniono SMS-y polityków PiS. Nie uwierzycie, jak przygotowywali się na film Sekielskiego _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ujawniono sensacyjne szczegóły romansu Markle ze słynnym muzykiem. Została upokorzona _ Brytyjska rodzina królewska Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ukochana bohaterka wraca do _Na Wspólnej_. Wszyscy myśleli, że już nigdy jej nie zobaczą _ Seriale Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ukradli pomnik Jana Pawła II. Krzyczeli_ _Stop pedofilom w Kościele_ _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Vincent Lambert zostanie poddany eutanazji. Wbrew rodzicom _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wandale wrzucili ule do stawu. Wszystkie pszczoły się utopiły, ogromna nagroda za wskazanie sprawcy _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Warszawskie Targi Książki 2019 - bilety, program, plan _ Wydarzenia Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wczoraj padła szóstka w Lotto. To najwyższa wygrana w tym roku, gdy zobaczycie tę kwotę zbledniejecie _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wellman szczerze o hejcie na swój temat. To jedno boli ją szczególnie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wiadomo już dokąd popłynie fala uderzeniowa. Mieszkańcy powinni się zabezpieczyć _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Widzów TVN już niedługo wbije w fotele. Gwiazdą stacji zostanie Justyna Żyła _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Widzów festiwalu Polsatu zamurowało. Chylińska wystrzeliła niespodziewane słowa o swoim mężu _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wielka radość pretekstem do oszustwa. Mama sześcioraczków apeluje _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wnuk Wodeckiego pojawi się w filmie. Podobny do dziadka_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wnuk Wodeckiego wchodzi do show-biznesu. Po dziadku odziedziczył to, co najlepsze _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Woda przelała wał i wlała się do domów. Patryk Jaki wysyła na pomoc 100 przestępców _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wstrząsające nagranie na TVP. Wykorzystał kobietę w biały dzień _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wszyscy patrzyli tylko na jej krocze. Dominika Gwit wrzuciła lżejszy ciuszek i zaczęła tańczyć (FOTO) _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Wyborcza zapowiada sensację ws. afery Morawieckiego. _To dopiero początek_ _ Polityka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Właściciele starszych aut muszą się mieć na baczności. Policja będzie na nich polować _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Właścicielka psa zmarła. Przed śmiercią przekazała bliskim okrutne życzenie na temat swojego pupila _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Właśnie wybuchła afera z ministrem PiS. _Wstaje o 12, co go trzyma__ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Właśnie wyszło na jaw, co Bachleda-Curuś powiedziała Gortatowi przy rozstaniu. Oniemiejecie _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Z ostatniej chwili_ Beata Szydło zawiesza kampanię wyborczą _ Gospodarka Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Zaskakujące wyznanie reżysera o Wieniawie. _Julia szybko się nie odczepi ode mnie_ _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Zdrowy pies został uśpiony. Wszystko przez samolubność jego właścicielki _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Zginęło 96 osób. Po 30 latach zapadł pierwszy wyrok w tej sprawie _ Sport Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Ziobro wycofuje się z absurdalnego przepisu. Nie będzie ścigania dziennikarzy za _pomówienia_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Zmarł, tragiczne informacje Polsatu. Wystawił głowę przez okno, nie zauważył co było przed nim _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Znany polski muzyk pójdzie siedzieć na 5,5 roku. TVN poinformował o wyroku sądu _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Znany prezenter TVP z żoną proszą o modlitwę. Jeden z najbliższych członków ich rodziny zmarł 2 tygodnie temu _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Znowu głośno o Revol. To ona szła z Mackiewiczem _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/_Rolnik szuka żony_ i _Sanatorium miłości_ to przy tym małe brzdące. TVP odpala nowe, jeszcze bardziej kuriozalne show _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/_Wsunął rękę pod kołdrę, zaczął masować_. Kard. Gulbinowicz oskarżony o molestowanie _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Żona Sekielskiego udzieliła wywiadu. _Nie chodzimy do kościoła, po prostu nie_ _ Społeczeństwo Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artykuly/Żona Wiśniewskiego pokazała zdjęcie swojej mamy. Prawdziwa petarda, będziecie zbierać szczęki z ziemi (FOTO) _ Gwiazdy Pikio.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/botPikio.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +262,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+            <state relative-caret-position="439">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#628#629#0" expanded="true" />
@@ -31,7 +276,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/toSpeach.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -55,7 +300,11 @@
       <find>artykuly</find>
       <find>system</find>
       <find>title</find>
+      <find>isIn</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,6 +338,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,7 +369,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,7 +404,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="botPikio" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="botPikio" />
       <method v="2">
@@ -176,16 +425,17 @@
       <workItem from="1558649403927" duration="12893000" />
       <workItem from="1558790010636" duration="361000" />
       <workItem from="1558799911449" duration="46000" />
+      <workItem from="1569259452515" duration="1626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13300000" />
+    <option name="totallyTimeSpent" value="14926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17032968" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17216118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,7 +444,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" x="21" y="218" width="902" height="230" id="Run" order="2" type="WINDOWED" weight="0.43469387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,22 +478,22 @@
     <entry file="file://$PROJECT_DIR$/botPikio.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/toSpeach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+        <state relative-caret-position="439">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#628#629#0" expanded="true" />
             <element signature="e#690#691#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/toSpeach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -254,7 +504,6 @@
         <settings>
           <artifact-editor>
             <show-content>
-              <type id="library" />
               <type id="javaee-facet-resources" />
               <type id="jpa-descriptors" />
               <type id="artifact" />

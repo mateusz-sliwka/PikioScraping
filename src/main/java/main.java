@@ -4,8 +4,10 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 
 import static java.io.File.separator;
 
@@ -22,6 +24,7 @@ public class main {
         }
         return string;
     }
+
     public static String sanitizeFilename(String name) {
         return name.replaceAll("[:\\\\/*\"?|<>]", "_");
     }
@@ -31,13 +34,13 @@ public class main {
         boolean sthNew = false;
         try {
             doc = Jsoup.connect(link).get();
-            boolean flag = isInArticles(sanitizeFilename(doc.title()) + ".txt");
+            boolean flag = isInArticles(sanitizeFilename(doc.title()).substring(0,20) + ".txt");
             if (!flag) {
 
                 Elements formElements = doc.select("div.article-container");
                 Elements e = formElements.select("p:not([class]),h2");
 
-                BufferedWriter writer = new BufferedWriter(new FileWriter("artykuly" + separator + sanitizeFilename(doc.title()) + ".txt"));
+                BufferedWriter writer = new BufferedWriter(new FileWriter("artykuly" + separator + sanitizeFilename(doc.title()).substring(0, 20) + ".txt"));
                 String result = Jsoup.parse(e.text()).text();
                 result = removeWord(result, " DALSZA CZĘŚĆ TEKSTU POD GALERIĄ");
                 result = removeWord(result, " DALSZA CZĘŚĆ TEKSTU POD GALERIĄ:");
@@ -68,26 +71,7 @@ public class main {
         return false;
     }
 
-    //    public static boolean isInBase(String newLink) throws IOException {
-//
-//        BufferedReader br = new BufferedReader(new FileReader("bazaLinkow.txt"));
-//        String currentLink;
-//        boolean exist=false;
-//        while((currentLink = br.readLine()) != null&&exist!=true){
-//            if(newLink.equals(currentLink)){
-//                exist=true;
-//            }
-//        }
-//        if(!exist){
-//            Writer output = new BufferedWriter(new FileWriter("bazaLinkow.txt", true));
-//            output.append(newLink+"\n");
-//            System.out.println("Dodano do bazy nowy artykul: "+newLink);
-//            output.close();
-//            return false;
-//        }
-//
-//        return true;
-//    }
+
     public static void checkPikiopl() {
         Document doc = null;
         try {
